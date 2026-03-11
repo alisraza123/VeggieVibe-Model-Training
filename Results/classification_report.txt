@@ -1,0 +1,57 @@
+                precision    recall  f1-score   support
+
+       Apricot       0.86      0.99      0.92       116
+          Bean       0.98      1.00      0.99       120
+  Bitter_Gourd       0.99      1.00      1.00       120
+  Bottle_Gourd       0.95      1.00      0.98       120
+      Broccoli       0.99      1.00      1.00       120
+       Cabbage       0.98      0.98      0.98       120
+      Capsicum       1.00      1.00      1.00       120
+        Carrot       0.99      0.98      0.99       120
+   Cauliflower       0.99      0.97      0.98       120
+         Dates       0.99      0.98      0.99       120
+        Grapes       1.00      0.94      0.97        71
+   Lady Finger       1.00      0.92      0.96        97
+      Mulberry       0.97      0.97      0.97       120
+        Onions       0.99      0.99      0.99       120
+   Pomegranate       0.97      0.97      0.97       120
+        Potato       0.90      1.00      0.94       120
+       Pumpkin       1.00      1.00      1.00       120
+        Radish       1.00      1.00      1.00       120
+      aloevera       0.80      0.97      0.87       121
+         apple       0.99      0.93      0.96       120
+        banana       0.98      0.94      0.96       121
+       bilimbi       0.91      0.97      0.94       121
+    cantaloupe       0.66      0.92      0.77       121
+       cassava       1.00      0.88      0.94       121
+       coconut       0.99      0.88      0.93       121
+          corn       1.00      0.95      0.97       121
+      cucumber       1.00      0.88      0.93       120
+       curcuma       0.84      0.95      0.89       121
+      eggplant       0.95      0.97      0.96       120
+      galangal       0.97      0.88      0.92       121
+        ginger       0.89      0.90      0.90       121
+         guava       0.93      0.98      0.95       121
+          kale       0.94      0.72      0.81       121
+     longbeans       0.95      0.93      0.94       121
+         mango       0.98      0.74      0.85       121
+         melon       0.93      0.53      0.67       121
+        orange       0.86      0.95      0.90       121
+         paddy       0.96      0.92      0.94       121
+        papaya       0.97      0.93      0.95       120
+   peper chili       0.99      0.95      0.97       121
+     pineapple       0.84      0.98      0.91       121
+        pomelo       0.85      0.96      0.90       121
+          rice       0.98      0.99      0.98       120
+       shallot       0.96      0.91      0.93       121
+      soybeans       0.97      0.97      0.97       120
+       spinach       0.78      0.94      0.85       121
+sweet potatoes       0.90      0.94      0.92       121
+       tobacco       0.91      0.94      0.93       121
+        tomato       0.96      0.91      0.94       120
+    waterapple       0.97      0.97      0.97       121
+    watermelon       0.97      0.93      0.95       121
+
+      accuracy                           0.94      6070
+     macro avg       0.94      0.94      0.94      6070
+  weighted avg       0.94      0.94      0.94      6070
