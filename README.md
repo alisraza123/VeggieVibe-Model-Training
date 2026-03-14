@@ -151,7 +151,7 @@ model.h5
 
 ---
 
-### Classification Report
+### Loss Graph
 
 ![Loss_Graph](Results/loss_graph.png)
 
