@@ -151,6 +151,12 @@ model.h5
 
 ---
 
+### Classification Report
+
+![Loss_Graph](Results/loss_graph.png)
+
+---
+
 # 📈 Evaluation Metrics
 
 The project generates the following evaluation outputs:
